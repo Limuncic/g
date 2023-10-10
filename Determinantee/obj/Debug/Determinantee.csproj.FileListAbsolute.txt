@@ -1,0 +1,11 @@
+C:\Users\rafae\source\repos\Determinantee\Determinantee\bin\Debug\Determinantee.exe.config
+C:\Users\rafae\source\repos\Determinantee\Determinantee\bin\Debug\Determinantee.exe
+C:\Users\rafae\source\repos\Determinantee\Determinantee\bin\Debug\Determinantee.pdb
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.Form1.resources
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.Properties.Resources.resources
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.exe
+C:\Users\rafae\source\repos\Determinantee\Determinantee\obj\Debug\Determinantee.pdb
